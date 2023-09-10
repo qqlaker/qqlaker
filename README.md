@@ -40,7 +40,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=qqlaker&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="qqlaker's github stats" />
 </a> 
-| 
 <a href="https://git.io/streak-stats"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=qqlaker&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </a> 
 </div>
