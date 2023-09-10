@@ -1,7 +1,7 @@
 <div align="center"><h3>Hi, my name is <i>Mihail</i></h3></div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="170"/>
   <div id="badges">
     <a href="https://www.fl.ru/users/yayayatytytyty/portfolio/">
     <img src="https://img.shields.io/badge/fl-darkgreen?style=for-the-badge&logo=fl&logoColor=white" alt="fl badge"/>
