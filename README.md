@@ -1,24 +1,18 @@
-<div align="center"><h3>Hi, my name is <i>Mihail</i></h3></div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="170"/>
-  <div id="badges">
-    <a href="https://www.fl.ru/users/yayayatytytyty/portfolio/">
-    <img src="https://img.shields.io/badge/fl-darkgreen?style=for-the-badge&logo=fl&logoColor=white" alt="fl badge"/>
-    </a>
-    <a href="https://t.me/qqlaker">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=qqlaker&style=flat-square&color=blue" alt="" width="130"/>
+# Hi, i'm [LaKeR]()! 
+<div id="badges">
+  <a href="https://t.me/qqlaker">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=white" alt="telegram Badge"/>
+  </a>
+  <a href="https://www.fl.ru/users/yayayatytytyty/portfolio/">
+    <img src="https://img.shields.io/badge/FL.RU-darkgreen?style=for-the-badge&logo=fl&logoColor=white" alt="fl badge"/>
+  </a>
 </div>
 
----
-### ✅ About Me :
-- :telescope: At the moment I am getting an education in computer science
+- :telescope: I am getting an education in computer science
+  
 - 💻 I have been developing for a long time. Some of my projects are presented here [github](https://github.com/qqlaker?tab=repositories)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="30" height="30"/>&nbsp;
