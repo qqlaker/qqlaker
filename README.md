@@ -8,9 +8,9 @@
   </a>
 </div>
 
-- :telescope: I am getting an education in computer science
+- :telescope: I am studying at the 4th year of university - computer science
   
-- 💻 I have been developing for a long time. Some of my projects are presented here [github](https://github.com/qqlaker?tab=repositories)
+- 💻 Now I have been working for half a year as a python developer
 
 ### Languages and Tools :
 <div>
